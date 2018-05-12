@@ -1,0 +1,30 @@
+_repo: The-DecadentBeing-the-Gospel-of-Inaction_41490
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cram, Ralph Adams
+    alias: Cram, R. A. (Ralph Adams)
+    birthdate: 1863
+    deathdate: 1942
+    gutenberg_agent_id: '3618'
+    url: http://www.gutenberg.org/2009/agents/3618
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Adams_Cram
+description: ''
+gutenberg_issued: '2012-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41490'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: "The Decadent: Being the Gospel of Inaction\r\nWherein Are Set Forth in Romance\
+  \ Form Certain Reflections Touching the Curious Characteristics of These Ultimate\
+  \ Years, and the Divers Causes Thereof"
+url: http://www.gutenberg.org/ebooks/41490
