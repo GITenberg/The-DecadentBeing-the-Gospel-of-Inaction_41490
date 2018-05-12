@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3618
     wikipedia: http://en.wikipedia.org/wiki/Ralph_Adams_Cram
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41490#The-DecadentBeing-the-Gospel-of-Inaction
 gutenberg_issued: '2012-11-26'
 gutenberg_type: Text
 identifiers:
